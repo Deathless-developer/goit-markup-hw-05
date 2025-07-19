@@ -477,3 +477,17 @@ li:hover .div-text {
   border-radius: 4px;
   padding: 24px;
 }
+.modal-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.modal-button {
+  width: 24px;
+  border-radius: 50%;
+  align-self: flex-end;
+}
